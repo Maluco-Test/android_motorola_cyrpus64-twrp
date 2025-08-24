@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_cyprus64.mk
+    $(LOCAL_DIR)/twrp_cyprus64.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_cyprus64-user \
-    omni_cyprus64-userdebug \
-    omni_cyprus64-eng
+    twrp_cyprus64-user \
+    twrp_cyprus64-userdebug \
+    twrp_cyprus64-eng
