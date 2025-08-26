@@ -6,6 +6,7 @@
 #
 
 LOCAL_PATH := device/motorola/cyprus64
+
 # A/B
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 TARGET_IS_VAB := true
